@@ -36,26 +36,26 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="../images/logo.png" alt="logo"></a>
+                    <a class="navbar-brand" href="../pages/index.php"><img src="../images/logo.png" alt="logo"></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="about-us.html">About Us</a></li>
-                        <li><a href="services.html">Services</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><a href="../pages/index.php">Accueil</a></li>
+                        <li><a href="../pages/asbl.php">L'ASBL</a></li>
+                        <li><a href="../pages/infrastructures.php">Infrastructures</a></li>
+                        <li><a href="../pages/ecole.php">École</a></li>
+                        <li><a href="../pages/concours.php">Concours</a></li>
+                        <li><a href="../pages/ecuries.php">Écuries</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Partenaires <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="blog-item.html">Blog Single</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                                <li><a href="404.html">404</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
+                                <li><a href="../pages/partenaires.php">Nos partenaires</a></li>
+                                <li><a href="../pages/sponsors.php">Nos sponsors</a></li>
+                                <li><a href="../pages/sitesequestres.php">Sites officiels équestres</a></li>
                             </ul>
                         </li>
-                        <li><a href="blog.html">Blog</a></li> 
-                        <li><a href="contact-us.html">Contact</a></li>                        
+                        <li><a href="../pages/contact.php">Contact</a></li>                     
                     </ul>
                 </div>
             </div><!--/.container-->

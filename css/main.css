@@ -12,6 +12,14 @@ body {
   line-height: 22px;
 }
 
+#imgInfra{
+  margin: 5px;
+}
+
+#titreBlanc{
+  color:#fff;
+}
+
 h1,
 h2,
 h3,
@@ -25,7 +33,6 @@ h6 {
 
 h1{
   font-size: 36px;
-  color:#fff;
 }
 
 h2{
@@ -548,7 +555,7 @@ input.search-form:hover {
 }
 
 .feature-wrap h2{
-  margin-top: 10px;
+  margin-top: 130px;
 }
 
 .feature-wrap .pull-left {
