@@ -17,6 +17,7 @@
     <section>
         <div class="container">
         	<div class="row">
+                <h1 class="center">L'ASBL l'Éperon</h1>
         		<h2>Règlement d'ordre intérieur</h2>
 				<a href="#">Le règlement d'ordre intérieur (mars 2013)</a>
         	</div>

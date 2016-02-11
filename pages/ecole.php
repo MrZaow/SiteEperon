@@ -26,7 +26,7 @@
         	<div class="row">
         		<div class="col-md-12">
         			<h2>Horaires</h2>
-        			<img class="img-responsive" src="../images/horaires.jpg" alt="Horaire de l'Éperon">
+        			<a href="#">Consulter les horaires</a>
         		</div>
         	</div>
         	<div class="row">

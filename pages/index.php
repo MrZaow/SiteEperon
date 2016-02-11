@@ -24,7 +24,7 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(../images/slider/bg1.jpg)">
+                <div class="item active" style="background-image: url(../images/slider3.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -37,7 +37,7 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(../images/slider/bg2.jpg)">
+                <div class="item" style="background-image: url(../images/slider2.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -50,7 +50,7 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(../images/slider/bg3.jpg)">
+                <div class="item" style="background-image: url(../images/slider1.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -117,25 +117,6 @@
             </div><!--/.row-->    
         </div><!--/.container-->
     </section><!--/#feature-->
-
-    <section id="partner">
-        <div class="container">
-            <div class="center wow fadeInDown">
-                <h2>Nos partenaires</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>    
-
-            <div class="partners">
-                <ul>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="../images/partners/partner1.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="../images/partners/partner2.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="../images/partners/partner3.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="../images/partners/partner4.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="../images/partners/partner5.png"></a></li>
-                </ul>
-            </div>        
-        </div><!--/.container-->
-    </section><!--/#partner-->
 
     <?php include('../includes/bottom.php') ?>
 
