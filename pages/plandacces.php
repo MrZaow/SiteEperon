@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Contact - ASBL L'Éperon</title>
+    <title>Plan d'accès - ASBL L'Éperon</title>
 	
 	<?php include('../includes/head.php') ?>
 </head><!--/head-->
@@ -17,7 +17,7 @@
     <section>
         <div class="container">
         	<div class="row">
-                <h1 class="center">Contact</h1>
+                <h1 class="center">Plan d'accès</h1>
         	</div>
         	<div class="row">
         		<div class="col-md-4">
@@ -29,10 +29,10 @@
         		</div>
         		<div class="col-md-8">
         			<h2>Localisation</h2>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.2191105266743!2d5.551504315983503!3d50.56729038681968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f817c18f287b%3A0xb9767a277edb7149!2sL&#39;Eperon+-+Royal+Cercle+Equestre+de+Li%C3%A8ge+-+ASBL!5e0!3m2!1sfr!2sfr!4v1455204838337" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+					<iframe class="hidden-xs" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.2191105266743!2d5.551504315983503!3d50.56729038681968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f817c18f287b%3A0xb9767a277edb7149!2sL&#39;Eperon+-+Royal+Cercle+Equestre+de+Li%C3%A8ge+-+ASBL!5e0!3m2!1sfr!2sfr!4v1455204838337" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe class="hidden-sm hidden-md hidden-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.2191105266743!2d5.551504315983503!3d50.56729038681968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f817c18f287b%3A0xb9767a277edb7149!2sL&#39;Eperon+-+Royal+Cercle+Equestre+de+Li%C3%A8ge+-+ASBL!5e0!3m2!1sfr!2sfr!4v1455204838337" width="400" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
         		</div>
         	</div>
-			
 		</div><!--/.container-->
     </section>
 	

@@ -21,7 +21,6 @@
         	</div>
         	<div class="row">
 				<ul>
-					<li>ASBL l’Eperon Event</li>
 					<li>ASBL Ballon d’Oxygène</li>
 					<li>ULG RCAE </li>
 					<li>CEFA </li>

@@ -84,8 +84,8 @@
                 <div class="features">
                     <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-briefcase"></i>
-                            <h2>Matériel</h2>
+                            <i class="fa fa-home"></i>
+                            <h2>Infrastructure</h2>
                             <h3>70 boxes, douches et salles de pansages intérieures et extérieures</h3>
                         </div>
                     </div><!--/.col-md-4-->

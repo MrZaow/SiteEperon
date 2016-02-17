@@ -42,20 +42,33 @@
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <li><a href="../pages/index.php">Accueil</a></li>
-                        <li><a href="../pages/asbl.php">L'ASBL</a></li>
-                        <li><a href="../pages/infrastructures.php">Infrastructures</a></li>
-                        <li><a href="../pages/ecole.php">École</a></li>
-                        <li><a href="../pages/concours.php">Concours</a></li>
-                        <li><a href="../pages/ecuries.php">Écuries</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Partenaires <i class="fa fa-angle-down"></i></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Notre Club <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="../pages/partenaires.php">Nos partenaires</a></li>
-                                <li><a href="../pages/sponsors.php">Nos sponsors</a></li>
-                                <li><a href="../pages/sitesequestres.php">Sites officiels équestres</a></li>
+                                <li><a href="../pages/presentationclub.php">Présentation</a></li>
+                                <li><a href="../pages/infrastructures.php">Infrastructures</a></li>
+                                <li><a href="../pages/services.php">Services et pensions</a></li>
+                                <li><a href="../pages/partenaires.php">Partenaires</a></li>
                             </ul>
                         </li>
-                        <li><a href="../pages/contact.php">Contact</a></li>                     
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">L'École <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../pages/ecole.php">Présentation</a></li>
+                                <li><a href="../pages/sponsors.php">Stages</a></li>
+                                <li><a href="../pages/sitesequestres.php">Horaires</a></li>
+                                <li><a href="../pages/sitesequestres.php">Tarifs</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../pages/concours.php">Événements</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../pages/coordonnees.php">Coordonnées</a></li>
+                                <li><a href="../pages/plandacces.php">Plan d'accès</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../pages/contact.php">Galerie</a></li>                     
                     </ul>
                 </div>
             </div><!--/.container-->

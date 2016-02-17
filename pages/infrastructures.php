@@ -40,52 +40,6 @@
         			</ul>
         		</div>
         	</div>
-        	<hr>
-        	<div class="row">
-        		<div class="col-md-12">
-    				<h2>Les infrastructures en image</h2>
-    				<div class="row">
-    					<div class="col-md-12">
-    						<img id = "imgInfra" class="img-responsive" src="../images/concours.jpg" alt="Le petit manège">
-    					</div>
-    				</div>
-    				<div class="row">
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/petitmanege.jpeg" alt="Le petit manège">
-    					</div>
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/terasse1.jpeg" alt="Le petit manège">
-    					</div>
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/terasse2.jpeg" alt="Le petit manège">
-    					</div>
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/pansage1.jpeg" alt="Le petit manège">
-    					</div>
-    				</div>
-    				<div class="row">
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/box1.jpeg" alt="Le petit manège">
-    					</div>
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/box2.jpeg" alt="Le petit manège">
-    					</div>
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/box3.jpeg" alt="Le petit manège">
-    					</div>
-    					<div class="col-md-3">
-    						<img id = "imgInfra" class="img-responsive" src="../images/sellerie1.jpeg" alt="Le petit manège">
-    					</div>
-    				</div>
-				</div>
-        	</div>
-        	<hr>
-        	<div class="row">
-        		<div class="col-md-12">
-        			<h2>Accès domaine universitaire, Bois d’Esneux, la Vecquée (lien à développer)</h2>
-        			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ratione dolor adipisci ipsa corporis reprehenderit doloremque distinctio illum, eum, ullam in cum totam voluptates qui. Odit ab exercitationem tempora animi.</p>
-        		</div>
-        	</div>
 			
 		</div><!--/.container-->
     </section>
