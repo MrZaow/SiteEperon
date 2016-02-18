@@ -30,7 +30,7 @@
         		<div class="col-md-8">
         			<h2>Localisation</h2>
 					<iframe class="hidden-xs" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.2191105266743!2d5.551504315983503!3d50.56729038681968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f817c18f287b%3A0xb9767a277edb7149!2sL&#39;Eperon+-+Royal+Cercle+Equestre+de+Li%C3%A8ge+-+ASBL!5e0!3m2!1sfr!2sfr!4v1455204838337" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    <iframe class="hidden-sm hidden-md hidden-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.2191105266743!2d5.551504315983503!3d50.56729038681968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f817c18f287b%3A0xb9767a277edb7149!2sL&#39;Eperon+-+Royal+Cercle+Equestre+de+Li%C3%A8ge+-+ASBL!5e0!3m2!1sfr!2sfr!4v1455204838337" width="400" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe class="hidden-sm hidden-md hidden-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.2191105266743!2d5.551504315983503!3d50.56729038681968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f817c18f287b%3A0xb9767a277edb7149!2sL&#39;Eperon+-+Royal+Cercle+Equestre+de+Li%C3%A8ge+-+ASBL!5e0!3m2!1sfr!2sfr!4v1455204838337" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
         		</div>
         	</div>
 		</div><!--/.container-->
