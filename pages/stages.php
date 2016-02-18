@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Nos partenaires - ASBL L'Éperon</title>
+    <title>Les stages - ASBL L'Éperon</title>
 	
 	<?php include('../includes/head.php') ?>
 </head><!--/head-->
@@ -17,17 +17,13 @@
     <section>
         <div class="container">
         	<div class="row">
-                <h1 class="center">Nos partenaires</h1>
+        		<h1 class="center">Les stages</h1>
         	</div>
-        	<div class="row">
-				<ul>
-					<li><a target=_blank href="http://asblballondoxygene.be/">ASBL Ballon d’Oxygène</a></li>
-					<li>ULG RCAE </li>
-					<li>CEFA </li>
-					<li>Le restaurant Marinko </li>
-				</ul>
-        	</div>
-			
+            <div class="row">
+                <div class="col-md-12">
+                    <p><a href="#">Programme des stages pour Carnaval 2016</a></p>
+                </div>
+            </div>
 		</div><!--/.container-->
     </section>
 	

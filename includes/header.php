@@ -55,12 +55,12 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">L'École <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li><a href="../pages/ecole.php">Présentation</a></li>
-                                <li><a href="../pages/sponsors.php">Stages</a></li>
-                                <li><a href="../pages/sitesequestres.php">Horaires</a></li>
-                                <li><a href="../pages/sitesequestres.php">Tarifs</a></li>
+                                <li><a href="../pages/stages.php">Stages</a></li>
+                                <li><a href="../pages/horaires.php">Horaires</a></li>
+                                <li><a href="../pages/tarifs.php">Tarifs</a></li>
                             </ul>
                         </li>
-                        <li><a href="../pages/concours.php">Événements</a></li>
+                        <li><a href="../pages/evenements.php">Événements</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
@@ -68,7 +68,7 @@
                                 <li><a href="../pages/plandacces.php">Plan d'accès</a></li>
                             </ul>
                         </li>
-                        <li><a href="../pages/contact.php">Galerie</a></li>                     
+                        <li><a href="../pages/galerie.php">Galerie</a></li>                     
                     </ul>
                 </div>
             </div><!--/.container-->

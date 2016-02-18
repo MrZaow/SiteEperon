@@ -19,41 +19,20 @@
         	<div class="row">
         		<h1 class="center">L'école de l'Éperon</h1>
         		<div class="col-md-12">
-        			<h2>Reconnaissance ADEPS</h2>
+        			<h2>Des cours pour tous</h2>
+                    <p>Pour tous les niveaux, du débutant au plus confirmé, des cours et activités sont organisés par L’Éperon, Royal Cercle équestre de Liège.</p>
+        		</div>
+        	</div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Université de Liège</h2>
+                    <p>Ecole d’équitation pour les membres du R.C.A.E. (tarifs spécifiques)</p>
+                </div>
+            </div>
+        	<div class="row">
+        		<div class="col-md-12">
+        			<h2>Reconnaissances officielles</h2>
         			<p>Moniteurs reconnus par la F.R.B.S.E., la L.E.W.B., l’A.D.E.P.S. et la Communauté Française </p>
-        		</div>
-        	</div>
-        	<div class="row">
-        		<div class="col-md-12">
-        			<h2>Horaires</h2>
-        			<a href="#">Consulter les horaires</a>
-        		</div>
-        	</div>
-        	<div class="row">
-        		<div class="col-md-12">
-        			<h2>Stages d'hiver</h2>
-        			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eaque natus, quibusdam nisi eveniet illum quod, vitae et ab pariatur beatae. Molestias ratione cupiditate deleniti in minima sunt adipisci, laboriosam.</p>
-        		</div>
-        	</div>
-        	<div class="row">
-        		<div class="col-md-12">
-        			<h2>L'école en images</h2>
-        			<div class="col-md-6">
-        				<img class="img-responsive" id="imgInfra" src="../images/ecole1.jpg" alt="École de l'Éperon">
-        			</div>
-        			<div class="col-md-6">
-        				<img class="img-responsive" id="imgInfra" src="../images/ecole4.jpg" alt="École de l'Éperon">
-        			</div>
-        		</div>
-        	</div>
-        	<div class="row">
-        		<div class="col-md-12">
-        			<div class="col-md-6">
-        				<img class="img-responsive" id="imgInfra" src="../images/ecole3.jpg" alt="École de l'Éperon">
-        			</div>
-        			<div class="col-md-6">
-        				<img class="img-responsive" id="imgInfra" src="../images/ecole2.jpg" alt="École de l'Éperon">
-        			</div>
         		</div>
         	</div>
 			

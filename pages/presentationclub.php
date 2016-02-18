@@ -27,7 +27,7 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <img src="../images/eperon1.jpg" alt="L'Éperon, royal cercle équestre Liège">
+                    <img class="img-responsive" src="../images/eperon1.jpg" alt="L'Éperon, royal cercle équestre Liège">
                 </div>
             </div>
             <div class="row">
