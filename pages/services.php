@@ -32,22 +32,25 @@
         		</div>
         	</div>
         	<div class="row">
-        		<div class="col-md-12">
+        		<div class="col-md-8">
 	        		<h2>Tarifs des pensions mensuelles (TVAC)</h2>
 					<h4>Chevaux</h4>
 					<p>Pensions sur paille : 350,06€</p>
 					<p>Pensions sur copeaux : 400,06€</p>
 					<h4>Poneys</h4>
-					<p>Pensions sur paille : 257,40€</p>
-					<p>Pensions sur copeaux : 297,40€</p>
+					<p>Pensions sur paille : 260,00€</p>
+					<p>Pensions sur copeaux : 300,00€</p>
 					<h4>Services supplémentaires</h4>
 					<p>Supplément foin 2x/jour (sur paille) : 20,00€</p>
+                    <p>Supplément services seaux : 10,00 €</p>
 				</div>
+                <div class="col-md-4">
+                    <img src="../images/box3.jpeg" alt="Box de l'éperon">
+                </div>
         	</div>
         	<div class="row">
         		<div class="col-md-12">
-        			<h2>Questions les plus fréquentes</h2>
-					<a href="#">Consulter les questions les plus fréquentes</a>
+        			<h2><a href="#">Questions les plus fréquentes sur l'alimentation des chevaux et poneys dans notre Cercle</a></h2>
         		</div>
         	</div>
 			

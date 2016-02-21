@@ -24,26 +24,29 @@
 
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <h3 class="panel-title">Événement 1</h3>
+                        <h3 class="panel-title">Stage de Pâques</h3>
                       </div>
                       <div class="panel-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus optio, officia dolorem aliquid ducimus sed vitae esse iste. A, deleniti. Quidem obcaecati ipsum praesentium iste, minima quis aperiam, totam voluptatum!
+                        <h5>Date : du 16/4 au 22/4</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto libero unde magnam! Quaerat quibusdam voluptas dolore nisi non magnam aspernatur illum. Inventore sed ipsa numquam dicta culpa, ducimus voluptatibus cumque?</p>
                       </div>
                     </div>
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <h3 class="panel-title">Événement 2</h3>
+                        <h3 class="panel-title">Concours d'obstacles GEPL</h3>
                       </div>
                       <div class="panel-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus optio, officia dolorem aliquid ducimus sed vitae esse iste. A, deleniti. Quidem obcaecati ipsum praesentium iste, minima quis aperiam, totam voluptatum!
+                        <h5>Date : du samedi 30 Avril  (CS3A) et du dimanche 1er mai (Poney) 2016</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis itaque iure reiciendis sit, deserunt perspiciatis consequatur. Vitae quos asperiores qui, nobis non quisquam quae animi. Voluptatibus nulla aperiam necessitatibus rerum?</p>
                       </div>
                     </div>
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <h3 class="panel-title">Événement 3</h3>
+                        <h3 class="panel-title">Concours d'obstacles EQUIFUN</h3>
                       </div>
                       <div class="panel-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus optio, officia dolorem aliquid ducimus sed vitae esse iste. A, deleniti. Quidem obcaecati ipsum praesentium iste, minima quis aperiam, totam voluptatum!
+                        <h5>Date : dimanche 16 mai 2016</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea doloribus voluptatibus ipsum est non veritatis ducimus quasi tempore in sunt temporibus, nemo fugit nisi debitis nulla, quisquam, possimus qui! Assumenda!</p>
                       </div>
                     </div>
 

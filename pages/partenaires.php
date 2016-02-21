@@ -20,12 +20,24 @@
                 <h1 class="center">Nos partenaires</h1>
         	</div>
         	<div class="row">
-				<ul>
-					<li><a target=_blank href="http://asblballondoxygene.be/">ASBL Ballon d’Oxygène</a></li>
-					<li>ULG RCAE </li>
-					<li>CEFA </li>
-					<li>Le restaurant Marinko </li>
-				</ul>
+                <div class="col-md-4">
+                    <a target=_blank href="http://asblballondoxygene.be/">
+                    <img src="../images/partenaire1.png" alt="ASBL Ballon d’Oxygène">
+                    <p>ASBL Ballon d’Oxygène</p>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a target=_blank href="http://www.rcae.ulg.ac.be/">
+                    <img src="../images/partenaire2.jpg" alt=" La Section Equitation du RCAE">
+                    <p> La Section "Equitation" du RCAE</p>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a target=_blank href="http://www.cefaliege.be/">
+                    <img src="../images/partenaire3.gif" alt="L'école d'apprentisage des palefreniers et groom du Cefa Liège">
+                    <p>L'école d'apprentisage des palefreniers et groom du Cefa Liège</p>
+                    </a>
+                </div>
         	</div>
 			
 		</div><!--/.container-->

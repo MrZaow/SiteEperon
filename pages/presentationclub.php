@@ -22,12 +22,14 @@
             <div class="row">
                 <div class="col-md-12">
                     <h2>Une bouffée d'oxygène à quelques minutes du centre ville</h2>
-                    <p>L'Éperon, Royal Cercle équestre de Liège vous propose une superbe infrastructure équestre avec tout le confort moderne</p>
+                    <p>Fondé en 1949, par un groupe d’amis cavaliers, et implanté depuis plus de 60 ans à la lisière du domaine universitaire du Sart-Tilman.</p>
+                    <p>En 1999, le Cercle équestre l'Eperon est devenu le Royal Cercle Equestre de Liège.</p>
+                    <p> L'ASBL est gérée par des bénévoles dans une ambiance familiale et conviviale.</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <img class="img-responsive" src="../images/eperon1.jpg" alt="L'Éperon, royal cercle équestre Liège">
+                    <img class="img-responsive" src="../images/eperon2.jpg" alt="L'Éperon, royal cercle équestre Liège">
                 </div>
             </div>
             <div class="row">
@@ -42,7 +44,7 @@
                     <h2>Accès facile</h2>
                     <p>À 10 minutes du centre de Liège</p>
                     <p>À 300m des centres commerciaux de Boncelles</p>
-                    <p>En bus via les lignes 2, 3, 18, 25, 48 et 58</p>
+                    <p>En bus via les lignes que contient le lien <a href="https://www.infotec.be/">https://www.infotec.be/</a></p>
                 </div>
             </div>
 			

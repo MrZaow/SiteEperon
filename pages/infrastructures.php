@@ -40,6 +40,17 @@
         			</ul>
         		</div>
         	</div>
+            <div class="row">
+                <div class="col-md-12">
+                    <b><i class="fa fa-video-camera"> </i> Site sous surveillance vidéo 24h/24 </b>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <br>
+                    <img src="../images/slider2.jpg" alt="Infrastructure de l'éperon">
+                </div>
+            </div>
 			
 		</div><!--/.container-->
     </section>

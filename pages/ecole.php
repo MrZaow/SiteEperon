@@ -35,6 +35,11 @@
         			<p>Moniteurs reconnus par la F.R.B.S.E., la L.E.W.B., l’A.D.E.P.S. et la Communauté Française </p>
         		</div>
         	</div>
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="../images/slider1.jpg" alt="Ecole de l'éperon">
+                </div>
+            </div>
 			
 		</div><!--/.container-->
     </section>

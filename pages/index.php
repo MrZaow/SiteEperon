@@ -86,7 +86,7 @@
                         <div class="feature-wrap">
                             <i class="fa fa-home"></i>
                             <h2>Infrastructure</h2>
-                            <h3>70 boxes, douches et salles de pansages intérieures et extérieures</h3>
+                            <h3>75 boxes, douches et salles de pansages intérieures et extérieures</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
