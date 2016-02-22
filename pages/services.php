@@ -50,7 +50,7 @@
         	</div>
         	<div class="row">
         		<div class="col-md-12">
-        			<h2><a href="#">Questions les plus fréquentes sur l'alimentation des chevaux et poneys dans notre Cercle</a></h2>
+        			<h2>Questions les plus fréquentes sur <a target=_blank href="http://www.eperon.be/fichiers/FAQ_alimentation.pdf">l'alimentation</a> des chevaux et poneys dans notre Cercle</h2>
         		</div>
         	</div>
 			

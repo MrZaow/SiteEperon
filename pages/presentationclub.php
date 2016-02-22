@@ -44,7 +44,7 @@
                     <h2>Accès facile</h2>
                     <p>À 10 minutes du centre de Liège</p>
                     <p>À 300m des centres commerciaux de Boncelles</p>
-                    <p>En bus via les lignes que contient le lien <a href="https://www.infotec.be/">https://www.infotec.be/</a></p>
+                    <p>En bus via les lignes <a target=_blank href="https://www.infotec.be/">TEC</a> 2, 3, 18, 25, 48 et 58</p>
                 </div>
             </div>
 			
