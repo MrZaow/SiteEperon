@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-md-4">
                     <a target=_blank href="http://www.gepl.net/">
-                    <img src="../images/lienutile3.JPG" alt="Groupement Equestre de la Province de Liège">
+                    <img src="../images/lienutile3.jpg" alt="Groupement Equestre de la Province de Liège">
                     <p>Groupement Equestre de la Province de Liège</p>
                     </a>
                 </div>
