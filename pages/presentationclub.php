@@ -47,6 +47,12 @@
                     <p>En bus via les lignes <a target=_blank href="https://www.infotec.be/">TEC</a> 2, 3, 18, 25, 48 et 58</p>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h2><a target=_blank href="../images/status.pdf">Statuts</a></h2>
+                    <h2><a target=_blank href="../images/ROI.pdf">Règlement d'ordre intérieur</a></h2>
+                </div>
+            </div>
 			
 		</div><!--/.container-->
     </section>

@@ -4,7 +4,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
                         <h3>A propos de l'ASBL</h3>
-                        <p>Fondé en 1949, par un groupe d’amis cavaliers, et implanté depuis plus de 60 ans à la lisière du domaine universitaire du Sart-Tilman.</p>
+                        <p>Fondé en 1949, par un groupe d’amis cavaliers, et implanté depuis plus de 60 ans à la lisière du domaine universitaire du Sart-Tilman. Notre ASBL vise à développer la pratique du sport équestre sous toutes ses formes</p>
                     </div>    
                 </div><!--/.col-md-3-->
 

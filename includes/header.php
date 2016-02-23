@@ -36,7 +36,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="../pages/index.php"><img src="../images/icone2.png" alt="logo"></a>
+                    <a class="navbar-brand" href="../pages/index.php"><img src="../images/iconeeperon.png" alt="logo">L'Éperon</a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -66,6 +66,7 @@
                             <ul class="dropdown-menu">
                                 <li><a href="../pages/coordonnees.php">Coordonnées</a></li>
                                 <li><a href="../pages/plandacces.php">Plan d'accès</a></li>
+                                <li><a href="../pages/liensutiles.php">Liens utiles</a></li>
                             </ul>
                         </li>
                         <li><a href="../pages/galerie.php">Galerie</a></li>                     
